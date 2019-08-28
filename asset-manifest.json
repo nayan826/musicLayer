@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nayan826/musicLayer.git/static/css/main.a5ec6406.chunk.css",
-    "main.js": "/nayan826/musicLayer.git/static/js/main.cdac0cdf.chunk.js",
-    "main.js.map": "/nayan826/musicLayer.git/static/js/main.cdac0cdf.chunk.js.map",
-    "runtime~main.js": "/nayan826/musicLayer.git/static/js/runtime~main.0ff989b2.js",
-    "runtime~main.js.map": "/nayan826/musicLayer.git/static/js/runtime~main.0ff989b2.js.map",
-    "static/js/2.00f6b77f.chunk.js": "/nayan826/musicLayer.git/static/js/2.00f6b77f.chunk.js",
-    "static/js/2.00f6b77f.chunk.js.map": "/nayan826/musicLayer.git/static/js/2.00f6b77f.chunk.js.map",
-    "index.html": "/nayan826/musicLayer.git/index.html",
-    "precache-manifest.285a2e6a53eef40661432b4d110d2a56.js": "/nayan826/musicLayer.git/precache-manifest.285a2e6a53eef40661432b4d110d2a56.js",
-    "service-worker.js": "/nayan826/musicLayer.git/service-worker.js",
-    "static/css/main.a5ec6406.chunk.css.map": "/nayan826/musicLayer.git/static/css/main.a5ec6406.chunk.css.map",
-    "static/media/Euphoria.mp3": "/nayan826/musicLayer.git/static/media/Euphoria.0cbf729c.mp3",
-    "static/media/FUN - SOME NIGHTS.mp3": "/nayan826/musicLayer.git/static/media/FUN - SOME NIGHTS.5b61b54e.mp3",
-    "static/media/FUN - WE ARE YOUNG.mp3": "/nayan826/musicLayer.git/static/media/FUN - WE ARE YOUNG.df5e1e16.mp3",
-    "static/media/Serendipity.mp3": "/nayan826/musicLayer.git/static/media/Serendipity.e803281f.mp3",
-    "static/media/boy[1030].png": "/nayan826/musicLayer.git/static/media/boy[1030].50a353c1.png",
-    "static/media/cd[1028].png": "/nayan826/musicLayer.git/static/media/cd[1028].b1a126d9.png"
+    "main.css": "/musicLayer/static/css/main.a5ec6406.chunk.css",
+    "main.js": "/musicLayer/static/js/main.cdac0cdf.chunk.js",
+    "main.js.map": "/musicLayer/static/js/main.cdac0cdf.chunk.js.map",
+    "runtime~main.js": "/musicLayer/static/js/runtime~main.22b85861.js",
+    "runtime~main.js.map": "/musicLayer/static/js/runtime~main.22b85861.js.map",
+    "static/js/2.00f6b77f.chunk.js": "/musicLayer/static/js/2.00f6b77f.chunk.js",
+    "static/js/2.00f6b77f.chunk.js.map": "/musicLayer/static/js/2.00f6b77f.chunk.js.map",
+    "index.html": "/musicLayer/index.html",
+    "precache-manifest.f5dc0115cea00844fe2c7f4453904b1b.js": "/musicLayer/precache-manifest.f5dc0115cea00844fe2c7f4453904b1b.js",
+    "service-worker.js": "/musicLayer/service-worker.js",
+    "static/css/main.a5ec6406.chunk.css.map": "/musicLayer/static/css/main.a5ec6406.chunk.css.map",
+    "static/media/Euphoria.mp3": "/musicLayer/static/media/Euphoria.0cbf729c.mp3",
+    "static/media/FUN - SOME NIGHTS.mp3": "/musicLayer/static/media/FUN - SOME NIGHTS.5b61b54e.mp3",
+    "static/media/FUN - WE ARE YOUNG.mp3": "/musicLayer/static/media/FUN - WE ARE YOUNG.df5e1e16.mp3",
+    "static/media/Serendipity.mp3": "/musicLayer/static/media/Serendipity.e803281f.mp3",
+    "static/media/boy[1030].png": "/musicLayer/static/media/boy[1030].50a353c1.png",
+    "static/media/cd[1028].png": "/musicLayer/static/media/cd[1028].b1a126d9.png"
   }
 }
