@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5ec6406.chunk.css",
+    "main.js": "/static/js/main.cdac0cdf.chunk.js",
+    "main.js.map": "/static/js/main.cdac0cdf.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.00f6b77f.chunk.js": "/static/js/2.00f6b77f.chunk.js",
+    "static/js/2.00f6b77f.chunk.js.map": "/static/js/2.00f6b77f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.42986f73163ecb7ba2d4a7ee1a69b71e.js": "/precache-manifest.42986f73163ecb7ba2d4a7ee1a69b71e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a5ec6406.chunk.css.map": "/static/css/main.a5ec6406.chunk.css.map",
+    "static/media/Euphoria.mp3": "/static/media/Euphoria.0cbf729c.mp3",
+    "static/media/FUN - SOME NIGHTS.mp3": "/static/media/FUN - SOME NIGHTS.5b61b54e.mp3",
+    "static/media/FUN - WE ARE YOUNG.mp3": "/static/media/FUN - WE ARE YOUNG.df5e1e16.mp3",
+    "static/media/Serendipity.mp3": "/static/media/Serendipity.e803281f.mp3",
+    "static/media/boy[1030].png": "/static/media/boy[1030].50a353c1.png",
+    "static/media/cd[1028].png": "/static/media/cd[1028].b1a126d9.png"
+  }
+}
